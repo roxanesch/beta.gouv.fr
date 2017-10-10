@@ -20,6 +20,8 @@ De façon pragmatique, tes objectifs seront :
 * De collaborer étroitement avec les développeurs·euses et les product managers
 * D'intervenir aussi bien sur des sujets de discovery (découverte du besoin et exploration de solutions), de distribution (acquisition d'utilisateurs), de delivery (recherche systématique de la valeur livrée aux utilisateurs et parties prenantes) et de customer success (satisfaction client)
 
+Tu interviendras sur une Start-up d'Etat en particulier, en tant que membre à part entière de l'équipe produit. En fonction de tes découvertes, de tes intérêts, de ton expérience, tu pourras également mettre la main à la pate de sujets transverses à l'Incubateur ou sur d'autres Start-up d'Etat.    
+
 Les qualités nécessaires pour le poste sont les suivantes :
 
 * Avoir le sens de l'écoute et savoir travailler en équipe
